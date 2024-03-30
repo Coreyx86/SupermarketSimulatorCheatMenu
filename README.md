@@ -24,6 +24,7 @@ https://melonwiki.xyz/
 - Maybe add the cheat menu as an app on the store computer
 - Add support for customizing the store such as the name of the store, etc.
 - Support for custom products
+- Support for multiple saved games
 
 # Known bugs:
 - The checkout button in the marketplace app does not function for some reason (No idea why)
